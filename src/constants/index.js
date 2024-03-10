@@ -296,7 +296,7 @@ const projects = [
     ],
     image: portfolio,
     source:github,
-    source_code_link: "https://github.com/monilkarajapaksha/Monilka_Rajapaksha_Potfolio.git",
+    source_code_link: "https://github.com/monilkarajapaksha/My_Portfolio.git",
   },
   {
     name: "Healthy Mobile App",

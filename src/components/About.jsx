@@ -44,7 +44,7 @@ const About = () => {
     Ruhuna. As a computer engineering undergraduate, I
     am dedicated to learn new technologies and follow new knowedge.
     I exited to use design and communication ability to develop create seamless and visually captivating user experience.
-    Not not that, using my mathematical and problem solving skills I exited to experiment with AI and machine learning model with a
+    Not only that, using my mathematical and problem solving skills I exited to experiment with AI and machine learning model with a
     creative manner.
     </motion.p>
     

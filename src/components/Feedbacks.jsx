@@ -35,7 +35,7 @@ const Feedbacks = () => {
        bg-tertiary rounded-2xl min-h-[300px]`}>
         <motion.div
         variants={textVariant}>
-          <p className={styles.sectionSubText}>What I hav done so far</p>
+          <p className={styles.sectionSubText}>What I have done so far</p>
           <h2 className={styles.heroHeadText}>
             Education.
           </h2>

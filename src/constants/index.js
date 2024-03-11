@@ -28,7 +28,7 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Projects",
   },
   {
     id: "contact",
@@ -326,7 +326,7 @@ const projects = [
     ],
     image: pizzaapp,
     source:figma,
-    source_code_link: "https://www.figma.com/file/uNtuwfDSolTDjdj0X8V0Ze/HealthyApp?type=design&node-id=260%3A1742&mode=design&t=QfblacC3gXjWC1kI-1",
+    source_code_link: "https://www.figma.com/file/gCBHx4Kv77UgqJyGM5JY0P/We-are-Awsome?type=design&node-id=68-123&mode=design&t=1IdcA9Giwzo9wgWS-0",
   },
   
 ];
